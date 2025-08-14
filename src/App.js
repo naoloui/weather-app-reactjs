@@ -29,6 +29,7 @@ export default function App() {
           <a
             href="https://app.netlify.com/projects/meteoapp-reactjs-naoloui/overview"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Netlify
           </a>
